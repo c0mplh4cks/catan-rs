@@ -2,5 +2,5 @@ mod board;
 mod tile;
 
 fn main() {
-    println!("Hello, world!");
+    println!("Dit is een test");
 }
